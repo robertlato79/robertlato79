@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Robert @robertlato79
 - 👀 I’m interested in everything :)
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Xamarin
 - 📫 How to reach me: robertlato@gmail.com
 
 <!---
